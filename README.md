@@ -1,6 +1,6 @@
 # rs-wordpress
 
-This repository is for my created WordPress widgets, shortcodes and plugins. 
+This repository is for my created WordPress widgets, shortcodes and plugins. To find the files, please see the separate branches. 
 
 TO DO: 
 
